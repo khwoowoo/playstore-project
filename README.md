@@ -15,6 +15,8 @@
 + **FRONTEND**
   + [Jan Woo Jin (JangWooJin1)](https://github.com/JangWooJin1)
   + [Kang Hyun Woo (khwoowoo)](https://github.com/khwoowoo)
++ **DESIGH**
+  + [Kang Hyun Woo (khwoowoo)](https://github.com/khwoowoo)
 
 ## 주요 구현 사항
 + **Init Page** - 사용자 등록, 권한 확인
