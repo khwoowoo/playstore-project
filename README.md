@@ -14,7 +14,7 @@
   + [Kibeom Park (Manhye)](https://github.com/Manhye)
 + **FRONTEND**
   + [Jan Woo Jin (JangWooJin1)](https://github.com/JangWooJin1)
-  + [Kang Hyun Woo (rkdgusdn)](https://github.com/khwoowoo)
+  + [Kang Hyun Woo (khwoowoo)](https://github.com/khwoowoo)
 
 ## 주요 구현 사항
 + **Init Page** - 사용자 등록, 권한 확인
